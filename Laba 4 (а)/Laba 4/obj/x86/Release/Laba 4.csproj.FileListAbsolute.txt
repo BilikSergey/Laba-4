@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Laba 4\Laba 4\obj\x86\Release\Laba 4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Laba 4\Laba 4\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Desktop\Laba 4\Laba 4\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Laba 4\Laba 4\obj\x86\Release\Laba 4.csproj.GenerateResource.Cache
